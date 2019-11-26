@@ -1,0 +1,25 @@
+{
+  "name": "express-mysql",
+  "version": "1.0.0",
+  "description": "Express JS with Mysql",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kalfian/Express-Mysql.git"
+  },
+  "keywords": [
+    "mysql",
+    "expressjs",
+    "js",
+    "nodejs"
+  ],
+  "author": "Kalfian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kalfian/Express-Mysql/issues"
+  },
+  "homepage": "https://github.com/kalfian/Express-Mysql#readme"
+}
